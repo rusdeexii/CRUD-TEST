@@ -1,0 +1,17 @@
+.container {
+    height:100vh ;
+    
+}
+
+.header {
+    background-color: white;
+
+}
+
+.brand {
+    font-size: 2rem;
+    padding: 10;
+}
+.content {
+    padding: 24px;
+}
